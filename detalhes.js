@@ -21,6 +21,7 @@ function lerInfos() {
         <p>${localStorage.getItem('@Descricao')}</p>
         <strong>Nome completo: </strong><span>${localStorage.getItem('@Nome')}</span>
         <strong>Nascimento: </strong><span>${localStorage.getItem('@Nascimento')}</span>
+        <strong>Altura: </strong><span>${localStorage.getItem('@Altura')}</span>
       </div>
     </div>
   `;
